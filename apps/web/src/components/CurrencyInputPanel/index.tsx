@@ -1,4 +1,4 @@
-import { Currency, Pair, Token } from '@pancakeswap/sdk'
+import { Currency, Pair, Token } from '@tiwatoyin/dyleum-sdk'
 import { Button, ChevronDownIcon, Text, useModal, Flex, Box, NumericalInput, CopyButton } from '@pancakeswap/uikit'
 import styled, { css } from 'styled-components'
 import { isAddress } from 'utils'

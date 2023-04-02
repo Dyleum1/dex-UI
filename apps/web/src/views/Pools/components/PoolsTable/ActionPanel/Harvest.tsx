@@ -5,7 +5,7 @@ import { PoolCategory } from 'config/constants/types'
 import { formatNumber, getBalanceNumber, getFullDisplayBalance } from '@pancakeswap/utils/formatBalance'
 import { useTranslation } from '@pancakeswap/localization'
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 import { ActionContainer, ActionTitles, ActionContent } from './styles'
 import CollectModal from '../../Modals/CollectModal'

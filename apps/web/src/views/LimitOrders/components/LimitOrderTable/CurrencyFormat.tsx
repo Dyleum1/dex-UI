@@ -1,4 +1,4 @@
-import { Currency } from '@pancakeswap/sdk'
+import { Currency } from '@tiwatoyin/dyleum-sdk'
 import CurrencyLogo from 'components/Logo/CurrencyLogo'
 import TextIcon from './TextIcon'
 

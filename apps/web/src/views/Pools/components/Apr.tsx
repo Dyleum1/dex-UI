@@ -3,7 +3,7 @@ import { Pool } from '@pancakeswap/uikit'
 import { vaultPoolConfig } from 'config/constants/pools'
 import { useCurrentBlock } from 'state/block/hooks'
 import { getPoolBlockInfo } from 'views/Pools/helpers'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 const withShownApr = (AprComp) => (props) => {
   const { account } = useActiveWeb3React()

@@ -1,4 +1,4 @@
-import { Trade, Percent, Currency, TradeType } from '@pancakeswap/sdk'
+import { Trade, Percent, Currency, TradeType } from '@tiwatoyin/dyleum-sdk'
 import { ZERO_PERCENT, ONE_HUNDRED_PERCENT } from 'config/constants/exchange'
 
 // returns whether tradeB is better than tradeA by at least a threshold percentage amount

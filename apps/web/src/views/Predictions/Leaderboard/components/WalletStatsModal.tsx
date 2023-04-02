@@ -19,7 +19,7 @@ import useTheme from 'hooks/useTheme'
 import styled from 'styled-components'
 import { getBlockExploreLink } from 'utils'
 import truncateHash from '@pancakeswap/utils/truncateHash'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 import { useTranslation } from '@pancakeswap/localization'
 import { FetchStatus } from 'config/constants/types'

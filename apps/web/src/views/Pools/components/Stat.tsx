@@ -4,7 +4,7 @@ import { useTranslation } from '@pancakeswap/localization'
 import { FC, ReactNode } from 'react'
 import { getBalanceNumber } from '@pancakeswap/utils/formatBalance'
 import { isLocked, isStaked } from 'utils/cakePool'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import useAvgLockDuration from './LockedPool/hooks/useAvgLockDuration'
 import Apr from './Apr'
 

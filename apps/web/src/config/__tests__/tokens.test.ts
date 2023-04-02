@@ -2,7 +2,7 @@ import map from 'lodash/map'
 import omitBy from 'lodash/omitBy'
 import erc20ABI from 'config/abi/erc20.json'
 import { mainnetTokens } from '@pancakeswap/tokens'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import multicall from 'utils/multicall'
 
 // remove BNB because it's not a Bep20 token

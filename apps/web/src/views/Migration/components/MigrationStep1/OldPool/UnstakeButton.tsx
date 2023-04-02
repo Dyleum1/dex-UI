@@ -13,7 +13,7 @@ import { VaultKey } from 'state/types'
 import { getContract } from 'utils/contractHelpers'
 import { getFullDisplayBalance } from '@pancakeswap/utils/formatBalance'
 import { cakeVaultAddress, ifoPoolV1Contract, useVaultPoolByKeyV1 } from 'views/Migration/hook/V1/Pool/useFetchIfoPool'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { useFetchUserPools } from '../../../hook/V1/Pool/useFetchUserPools'
 import useUnstakePool from '../../../hook/V1/Pool/useUnstakePool'
 

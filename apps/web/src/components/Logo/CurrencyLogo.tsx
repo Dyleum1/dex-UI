@@ -1,4 +1,4 @@
-import { ChainId, Currency } from '@pancakeswap/sdk'
+import { ChainId, Currency } from '@tiwatoyin/dyleum-sdk'
 import { BinanceIcon } from '@pancakeswap/uikit'
 import { useMemo } from 'react'
 import { WrappedTokenInfo } from '@pancakeswap/token-lists'

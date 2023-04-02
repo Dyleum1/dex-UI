@@ -9,7 +9,7 @@ import { VaultKey, DeserializedLockedCakeVault } from 'state/types'
 import styled from 'styled-components'
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
 import { getVaultPosition, VaultPosition, VaultPositionParams } from 'utils/cakePool'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 interface NameCellProps {
   pool: Pool.DeserializedPool<Token>

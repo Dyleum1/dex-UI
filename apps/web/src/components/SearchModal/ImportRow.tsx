@@ -1,5 +1,5 @@
 import { CSSProperties } from 'react'
-import { Currency, Token } from '@pancakeswap/sdk'
+import { Currency, Token } from '@tiwatoyin/dyleum-sdk'
 import { Button, Text, CheckmarkCircleIcon, useMatchBreakpoints } from '@pancakeswap/uikit'
 import { AutoRow, RowFixed } from 'components/Layout/Row'
 import { AutoColumn } from 'components/Layout/Column'

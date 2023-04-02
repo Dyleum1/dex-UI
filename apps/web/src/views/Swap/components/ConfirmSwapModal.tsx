@@ -1,5 +1,5 @@
 import { useCallback, memo } from 'react'
-import { Trade, Currency, TradeType, CurrencyAmount } from '@pancakeswap/sdk'
+import { Trade, Currency, TradeType, CurrencyAmount } from '@tiwatoyin/dyleum-sdk'
 import { InjectedModalProps, LinkExternal, Text } from '@pancakeswap/uikit'
 import { TransactionErrorContent, TransactionSubmittedContent } from 'components/TransactionConfirmationModal'
 import { useTranslation } from '@pancakeswap/localization'

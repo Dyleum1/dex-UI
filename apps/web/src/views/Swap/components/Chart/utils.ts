@@ -1,4 +1,4 @@
-import { ChainId, NATIVE } from '@pancakeswap/sdk/src'
+import { ChainId, NATIVE } from '@tiwatoyin/dyleum-sdk/src'
 import { BNB_ADDRESS } from './constants'
 
 const MIN_VALUE_DISPLAYED = 0.001

@@ -9,7 +9,7 @@ import {
   TradeOptions,
   TradeOptionsDeadline,
   TradeType,
-} from '@pancakeswap/sdk'
+} from '@tiwatoyin/dyleum-sdk'
 import { isStableSwapPair, Trade, TradeWithStableSwap } from '@pancakeswap/smart-router/evm'
 import { INITIAL_ALLOWED_SLIPPAGE } from 'config/constants'
 import { BIPS_BASE } from 'config/constants/exchange'

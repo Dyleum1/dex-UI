@@ -10,7 +10,7 @@ import {
   NextLinkFromReactRouter,
 } from '@pancakeswap/uikit'
 import { useCallback } from 'react'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import { useTranslation } from '@pancakeswap/localization'
 import { useRouter } from 'next/router'
 import styled from 'styled-components'

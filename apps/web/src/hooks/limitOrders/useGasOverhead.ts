@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { formatUnits } from '@ethersproject/units'
-import { CurrencyAmount, Price, Currency } from '@pancakeswap/sdk'
+import { CurrencyAmount, Price, Currency } from '@tiwatoyin/dyleum-sdk'
 import { BigNumber } from '@ethersproject/bignumber'
 import { useTradeExactIn } from 'hooks/Trades'
 import tryParseAmount from '@pancakeswap/utils/tryParseAmount'

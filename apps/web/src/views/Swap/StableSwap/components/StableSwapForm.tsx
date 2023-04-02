@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState, useContext, useMemo } from 'react'
 import styled from 'styled-components'
-import { Currency, CurrencyAmount, Percent } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, Percent } from '@tiwatoyin/dyleum-sdk'
 import {
   Text,
   ArrowDownIcon,

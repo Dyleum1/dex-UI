@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 import styled from 'styled-components'
-import { ChainId, Token } from '@pancakeswap/sdk'
+import { ChainId, Token } from '@tiwatoyin/dyleum-sdk'
 import { useActiveChainId } from 'hooks/useActiveChainId'
 import { Flex, Box, SwapVertIcon, IconButton, Pool } from '@pancakeswap/uikit'
 import { useTranslation } from '@pancakeswap/localization'

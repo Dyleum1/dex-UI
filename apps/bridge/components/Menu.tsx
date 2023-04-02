@@ -1,4 +1,4 @@
-import { CurrencyAmount, Token } from '@pancakeswap/sdk'
+import { CurrencyAmount, Token } from '@tiwatoyin/dyleum-sdk'
 import {
   BlockIcon,
   Box,

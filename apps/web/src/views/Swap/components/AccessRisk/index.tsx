@@ -1,5 +1,5 @@
 import { useState, useMemo, useCallback } from 'react'
-import { Currency } from '@pancakeswap/sdk'
+import { Currency } from '@tiwatoyin/dyleum-sdk'
 import { useTranslation } from '@pancakeswap/localization'
 import { Flex, Button, HelpIcon, useTooltip, Text, Link, useToast } from '@pancakeswap/uikit'
 import { fetchRiskToken, RiskTokenInfo } from 'views/Swap/hooks/fetchTokenRisk'

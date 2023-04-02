@@ -18,7 +18,7 @@ import { VaultKey } from 'state/types'
 import { getBalanceNumber } from '@pancakeswap/utils/formatBalance'
 import { useConfig } from 'views/Ifos/contexts/IfoContext'
 import { CakeVaultDetail } from 'views/Pools/components/CakeVaultCard'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 const StyledCardMobile = styled(Card)`
   max-width: 400px;

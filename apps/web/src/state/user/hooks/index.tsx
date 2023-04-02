@@ -1,4 +1,4 @@
-import { ChainId, Pair, ERC20Token } from '@pancakeswap/sdk'
+import { ChainId, Pair, ERC20Token } from '@tiwatoyin/dyleum-sdk'
 import { deserializeToken } from '@pancakeswap/token-lists'
 import { differenceInDays } from 'date-fns'
 import flatMap from 'lodash/flatMap'

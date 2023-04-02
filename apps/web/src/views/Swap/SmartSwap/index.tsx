@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { Currency, CurrencyAmount, NATIVE, Percent } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, NATIVE, Percent } from '@tiwatoyin/dyleum-sdk'
 import {
   ArrowDownIcon,
   Box,

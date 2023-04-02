@@ -1,4 +1,4 @@
-import { Currency, Percent, Trade, TradeType } from '@pancakeswap/sdk'
+import { Currency, Percent, Trade, TradeType } from '@tiwatoyin/dyleum-sdk'
 
 import { ONE_HUNDRED_PERCENT, ZERO_PERCENT } from '../constants'
 

@@ -49,7 +49,7 @@
     "@pancakeswap/hooks": "*",
     "@pancakeswap/localization": "*",
     "@pancakeswap/multicall": "*",
-    "@pancakeswap/sdk": "*",
+    "@tiwatoyin/dyleum-sdk": "*",
     "@pancakeswap/smart-router": "*",
     "@pancakeswap/token-lists": "*",
     "@pancakeswap/tokens": "*",

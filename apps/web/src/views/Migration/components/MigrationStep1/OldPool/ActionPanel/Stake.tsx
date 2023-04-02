@@ -8,7 +8,7 @@ import { useVaultPoolByKeyV1 } from 'views/Migration/hook/V1/Pool/useFetchIfoPoo
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
 import { getBalanceNumber } from '@pancakeswap/utils/formatBalance'
 import { convertSharesToCake } from 'views/Pools/helpers'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import UnstakeButton from '../UnstakeButton'
 
 const Container = styled(ActionContainer)`

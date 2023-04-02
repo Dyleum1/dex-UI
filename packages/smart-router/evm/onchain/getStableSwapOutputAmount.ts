@@ -1,5 +1,5 @@
 import { BigNumber } from '@ethersproject/bignumber'
-import { ChainId, Currency, CurrencyAmount } from '@pancakeswap/sdk'
+import { ChainId, Currency, CurrencyAmount } from '@tiwatoyin/dyleum-sdk'
 import { Call, createMulticall } from '@pancakeswap/multicall'
 
 import { Provider, StableSwapPair } from '../types'

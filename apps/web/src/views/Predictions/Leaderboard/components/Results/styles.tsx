@@ -1,4 +1,4 @@
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { Flex, FlexProps, Text } from '@pancakeswap/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import useBUSDPrice from 'hooks/useBUSDPrice'

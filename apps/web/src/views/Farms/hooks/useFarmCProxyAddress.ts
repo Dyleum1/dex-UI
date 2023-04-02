@@ -1,5 +1,5 @@
 import useSWR from 'swr'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import { fetchCProxyAddress } from 'state/farms/fetchFarmUser'
 import { farmFetcher } from 'state/farms'
 

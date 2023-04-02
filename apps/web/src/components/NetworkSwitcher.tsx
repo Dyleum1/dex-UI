@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { ChainId, NATIVE } from '@pancakeswap/sdk'
+import { ChainId, NATIVE } from '@tiwatoyin/dyleum-sdk'
 import {
   ArrowDownIcon,
   ArrowUpIcon,

@@ -6,7 +6,7 @@ import { useTranslation } from '@pancakeswap/localization'
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
 import { useVaultPoolByKey } from 'state/pools/hooks'
 import Apr from 'views/Pools/components/Apr'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 const Containter = styled(Flex)`
   margin: 12px 0 0 0;

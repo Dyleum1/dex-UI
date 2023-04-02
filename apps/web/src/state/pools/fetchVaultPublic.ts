@@ -4,7 +4,7 @@ import cakeAbi from 'config/abi/cake.json'
 import cakeVaultAbi from 'config/abi/cakeVaultV2.json'
 import { getCakeVaultAddress, getCakeFlexibleSideVaultAddress } from 'utils/addressHelpers'
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import { RICE } from '@pancakeswap/tokens'
 
 const cakeVaultV2 = getCakeVaultAddress()

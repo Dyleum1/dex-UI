@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { createSelector } from '@reduxjs/toolkit'
 import { deserializeToken } from '@pancakeswap/token-lists'
 import { useSelector } from 'react-redux'

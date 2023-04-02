@@ -1,4 +1,4 @@
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import { isStableFarm, SerializedFarmConfig } from '@pancakeswap/farms'
 
 let logged = false

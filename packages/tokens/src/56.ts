@@ -1,4 +1,4 @@
-import { ChainId, Token, WBNB, ERC20Token } from '@pancakeswap/sdk'
+import { ChainId, Token, WBNB, ERC20Token } from '@tiwatoyin/dyleum-sdk'
 import { BUSD_BSC, CAKE_MAINNET, USDT_BSC } from './common'
 
 export const bscTokens = {

@@ -1,4 +1,4 @@
-import { ChainId, Native, NativeCurrency } from '@pancakeswap/sdk'
+import { ChainId, Native, NativeCurrency } from '@tiwatoyin/dyleum-sdk'
 import { useMemo } from 'react'
 import { useActiveChainId } from './useActiveChainId'
 

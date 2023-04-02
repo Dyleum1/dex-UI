@@ -16,7 +16,7 @@ import {
   BalanceWithLoading,
 } from '@pancakeswap/uikit'
 import { useAccount } from 'wagmi'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { Ifo, PoolIds } from 'config/constants/types'
 import { bscTokens } from '@pancakeswap/tokens'
 import { cakeBnbLpToken } from 'config/constants/ifo'

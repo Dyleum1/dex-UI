@@ -1,7 +1,7 @@
 import { MaxUint256, Zero } from '@ethersproject/constants'
 import { formatEther, parseUnits } from '@ethersproject/units'
 import { TranslateFunction, useTranslation } from '@pancakeswap/localization'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import { coreTokens } from '@pancakeswap/tokens'
 import { InjectedModalProps, useToast } from '@pancakeswap/uikit'
 import { ToastDescriptionWithTx } from 'components/Toast'

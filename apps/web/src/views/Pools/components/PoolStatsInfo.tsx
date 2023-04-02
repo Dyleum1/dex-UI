@@ -10,7 +10,7 @@ import { getBlockExploreLink } from 'utils'
 import { getAddress, getVaultPoolAddress } from 'utils/addressHelpers'
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
 import { getPoolBlockInfo } from 'views/Pools/helpers'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import MaxStakeRow from './MaxStakeRow'
 import { AprInfo, DurationAvg, PerformanceFee, TotalLocked, TotalStaked } from './Stat'
 

@@ -4,7 +4,7 @@ import { VaultKey } from 'state/types'
 import { useVaultPoolByKeyV1 } from 'views/Migration/hook/V1/Pool/useFetchIfoPool'
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
 import { getCakeVaultEarnings } from 'views/Pools/helpers'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { Pool } from '@pancakeswap/uikit'
 
 import Staked from './Stake'

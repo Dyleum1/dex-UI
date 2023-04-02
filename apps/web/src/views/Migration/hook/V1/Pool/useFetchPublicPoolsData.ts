@@ -1,4 +1,4 @@
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import { useAppDispatch } from 'state'
 import { getFarmConfig } from '@pancakeswap/farms/constants'
 import { useSlowRefreshEffect } from 'hooks/useRefreshEffect'

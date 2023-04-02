@@ -6,7 +6,7 @@ import { useTranslation } from '@pancakeswap/localization'
 import { useVaultPoolByKey } from 'state/pools/hooks'
 import { VaultKey, DeserializedLockedCakeVault, DeserializedCakeVault } from 'state/types'
 import styled from 'styled-components'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 import CardFooter from '../PoolCard/CardFooter'
 import { VaultPositionTagWithLabel } from '../Vault/VaultPositionTag'

@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { Currency, CurrencyAmount } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount } from '@tiwatoyin/dyleum-sdk'
 import { Spinner, Text } from '@pancakeswap/uikit'
 import { AutoColumn, ColumnCenter } from 'components/Layout/Column'
 import styled from 'styled-components'

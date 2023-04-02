@@ -11,7 +11,7 @@ import {
   Percent,
   Price,
   Token,
-} from '@pancakeswap/sdk'
+} from '@tiwatoyin/dyleum-sdk'
 import { BIG_INT_ZERO } from 'config/constants/exchange'
 import { FetchStatus } from 'config/constants/types'
 import { useTradeExactIn } from 'hooks/Trades'

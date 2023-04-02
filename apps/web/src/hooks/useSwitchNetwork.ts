@@ -1,6 +1,6 @@
 /* eslint-disable consistent-return */
 import { useTranslation } from '@pancakeswap/localization'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import { useToast } from '@pancakeswap/uikit'
 import { useCallback, useMemo } from 'react'
 import replaceBrowserHistory from '@pancakeswap/utils/replaceBrowserHistory'

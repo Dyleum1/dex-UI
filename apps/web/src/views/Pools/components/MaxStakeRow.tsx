@@ -4,7 +4,7 @@ import { getBlockExploreLink } from 'utils'
 import BigNumber from 'bignumber.js'
 import { useTranslation } from '@pancakeswap/localization'
 import { getFullDisplayBalance } from '@pancakeswap/utils/formatBalance'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 interface MaxStakeRowProps {
   small?: boolean

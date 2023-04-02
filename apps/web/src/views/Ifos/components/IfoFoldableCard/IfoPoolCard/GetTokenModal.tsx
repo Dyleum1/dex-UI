@@ -1,5 +1,5 @@
 import { Modal, ModalBody, Text, Image, Button, Link, OpenNewIcon, useMatchBreakpoints } from '@pancakeswap/uikit'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { useTranslation } from '@pancakeswap/localization'
 
 interface Props {

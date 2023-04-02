@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Trade, TradeType, CurrencyAmount, Currency } from '@pancakeswap/sdk'
+import { Trade, TradeType, CurrencyAmount, Currency } from '@tiwatoyin/dyleum-sdk'
 import { Button, Text, ErrorIcon, ArrowDownIcon } from '@pancakeswap/uikit'
 import { Field } from 'state/swap/actions'
 import { useTranslation } from '@pancakeswap/localization'

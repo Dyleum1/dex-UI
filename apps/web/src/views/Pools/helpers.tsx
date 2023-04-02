@@ -4,7 +4,7 @@ import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
 import { getApy } from '@pancakeswap/utils/compoundApyHelpers'
 import { getBalanceNumber, getFullDisplayBalance, getDecimalAmount } from '@pancakeswap/utils/formatBalance'
 import memoize from 'lodash/memoize'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { Pool } from '@pancakeswap/uikit'
 
 // min deposit and withdraw amount

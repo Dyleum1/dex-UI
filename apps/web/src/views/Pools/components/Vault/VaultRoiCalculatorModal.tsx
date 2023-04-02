@@ -14,7 +14,7 @@ import { VaultKey } from 'state/types'
 import { useVaultPoolByKey } from 'state/pools/hooks'
 import { getRoi } from '@pancakeswap/utils/compoundApyHelpers'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 import LockDurationField from '../LockedPool/Common/LockDurationField'
 import { weeksToSeconds } from '../utils/formatSecondsToWeeks'

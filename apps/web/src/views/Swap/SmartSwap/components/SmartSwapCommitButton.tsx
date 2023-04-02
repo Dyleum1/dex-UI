@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { Currency, CurrencyAmount, TradeType } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, TradeType } from '@tiwatoyin/dyleum-sdk'
 import { Button, Text, useModal } from '@pancakeswap/uikit'
 
 import { TradeWithStableSwap } from '@pancakeswap/smart-router/evm'

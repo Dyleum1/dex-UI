@@ -1,4 +1,4 @@
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import { Pool } from '@pancakeswap/uikit'
 import addresses from 'config/constants/contracts'
 import { VaultKey } from 'state/types'
@@ -14,7 +14,7 @@ export const getMasterChefV1Address = () => {
   return getAddress(addresses.masterChefV1)
 }
 export const getMulticallAddress = (chainId?: number) => {
-  return getAddress(addresses.multiCall, chainId)
+  return getAddress(addresses.multicallAddresses, chainId)
 }
 export const getLotteryV2Address = () => {
   return getAddress(addresses.lotteryV2)

@@ -1,7 +1,7 @@
 import { Interface, Fragment } from '@ethersproject/abi'
 import { CallOverrides, Contract } from '@ethersproject/contracts'
 import { Provider } from '@ethersproject/providers'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 
 import multicallAbi from './Multicall.json'
 
@@ -11,7 +11,7 @@ export const multicallAddresses = {
   97: '0xcA11bde05977b3631167028862bE2a173976CA1',
   5: '0xcA11bde05977b3631167028862bE2a173976CA1',
   4: '0xcA11bde05977b3631167028862bE2a173976CA1',
-  1116: '0xd05CD3b72a851f29804f23BC8b27fe86Bc9b0eac',
+  1116: '0x3eECde42973B0b5157e81e14caDCfe22700B6Bea',
   32520: '0x28BDB5f1613B5C7E953A26CA9e6EdD8E9d05cDfD',
 }
 

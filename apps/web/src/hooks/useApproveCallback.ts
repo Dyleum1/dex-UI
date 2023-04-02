@@ -1,7 +1,7 @@
 import { MaxUint256 } from '@ethersproject/constants'
 import { TransactionResponse } from '@ethersproject/providers'
 import { useTranslation } from '@pancakeswap/localization'
-import { Currency, CurrencyAmount, Trade, TradeType } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, Trade, TradeType } from '@tiwatoyin/dyleum-sdk'
 import { useToast } from '@pancakeswap/uikit'
 import { useAccount } from 'wagmi'
 import { ROUTER_ADDRESS } from 'config/constants/exchange'

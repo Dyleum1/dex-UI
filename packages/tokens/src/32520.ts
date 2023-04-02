@@ -1,4 +1,4 @@
-import { ChainId, Token, ERC20Token, WBNB } from '@pancakeswap/sdk'
+import { ChainId, Token, ERC20Token, WBNB } from '@tiwatoyin/dyleum-sdk'
 import { RICE_BRISE } from './common'
 
 export const briseTokens = {

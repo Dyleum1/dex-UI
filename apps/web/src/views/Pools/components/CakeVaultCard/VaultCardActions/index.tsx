@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import { Flex, Text, Box, Pool } from '@pancakeswap/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 import VaultApprovalAction from './VaultApprovalAction'
 import VaultStakeActions from './VaultStakeActions'

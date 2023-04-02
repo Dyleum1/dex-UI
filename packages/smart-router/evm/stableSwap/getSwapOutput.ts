@@ -1,4 +1,4 @@
-import { BigintIsh, CurrencyAmount, Currency, JSBI, Percent } from '@pancakeswap/sdk'
+import { BigintIsh, CurrencyAmount, Currency, JSBI, Percent } from '@tiwatoyin/dyleum-sdk'
 import invariant from 'tiny-invariant'
 
 import { getY } from './amm'

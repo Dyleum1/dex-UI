@@ -9,7 +9,7 @@ import {
   WNATIVE,
   WBNB,
   ERC20Token,
-} from '@pancakeswap/sdk'
+} from '@tiwatoyin/dyleum-sdk'
 import { FAST_INTERVAL } from 'config/constants'
 import { BUSD, RICE, USDC } from '@pancakeswap/tokens'
 import { useMemo } from 'react'

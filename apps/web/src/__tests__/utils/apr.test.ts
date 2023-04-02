@@ -2,7 +2,7 @@ import BigNumber from 'bignumber.js'
 import lpAprs from 'config/constants/lpAprs/56.json'
 import { getPoolApr, getFarmApr } from 'utils/apr'
 import { BIG_TEN, BIG_ZERO } from '@pancakeswap/utils/bigNumber'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 
 jest.mock('../../config/constants/lpAprs/56.json', () => ({
   '0x0ed7e52944161450477ee417de9cd3a859b14fd0': 10.5,

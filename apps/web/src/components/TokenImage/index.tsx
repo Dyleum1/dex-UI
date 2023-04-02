@@ -4,7 +4,7 @@ import {
   TokenImage as UIKitTokenImage,
   ImageProps,
 } from '@pancakeswap/uikit'
-import { Token, ChainId } from '@pancakeswap/sdk'
+import { Token, ChainId } from '@tiwatoyin/dyleum-sdk'
 
 interface TokenPairImageProps extends Omit<UIKitTokenPairImageProps, 'primarySrc' | 'secondarySrc'> {
   primaryToken: Token

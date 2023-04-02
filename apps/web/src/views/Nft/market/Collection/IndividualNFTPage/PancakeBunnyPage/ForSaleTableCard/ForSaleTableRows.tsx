@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { useAccount } from 'wagmi'
-import { Price, Currency } from '@pancakeswap/sdk'
+import { Price, Currency } from '@tiwatoyin/dyleum-sdk'
 import { Button, Grid, Text, Flex, Box, BinanceIcon, useModal, Skeleton } from '@pancakeswap/uikit'
 import { formatNumber } from '@pancakeswap/utils/formatBalance'
 import { ContextApi, useTranslation } from '@pancakeswap/localization'

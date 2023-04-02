@@ -3,7 +3,7 @@ import { useTranslation } from '@pancakeswap/localization'
 import { differenceInHours } from 'date-fns'
 import { useVaultPoolByKey } from 'state/pools/hooks'
 import { VaultKey, DeserializedLockedVaultUser } from 'state/types'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { getCakeVaultEarnings } from '../helpers'
 
 interface AutoEarningsBreakdownProps {

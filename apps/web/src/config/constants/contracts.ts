@@ -1,4 +1,4 @@
-import { multicallAddresses } from '@pancakeswap/multicall'
+// import { multicallAddresses } from '@pancakeswap/multicall'
 
 export default {
   masterChef: {
@@ -17,7 +17,10 @@ export default {
     32520: '',
     1116: '',
   },
-  multiCall: multicallAddresses,
+  // multiCall: multicallAddresses,
+  multicallAddresses: {
+    1116:'0x3eECde42973B0b5157e81e14caDCfe22700B6Bea'
+  },
   pancakeProfile: {
     32520: '',
     1116: '',

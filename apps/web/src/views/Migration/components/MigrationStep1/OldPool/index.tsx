@@ -1,4 +1,4 @@
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { Pool } from '@pancakeswap/uikit'
 import React from 'react'
 import PoolsTable from './PoolTable'

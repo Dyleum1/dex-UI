@@ -1,6 +1,6 @@
 import masterchefABI from 'config/abi/masterchef.json'
 import chunk from 'lodash/chunk'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import BigNumber from 'bignumber.js'
 import { multicallv2 } from 'utils/multicall'
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'

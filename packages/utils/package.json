@@ -7,6 +7,6 @@
   "private": true,
   "dependencies": {
     "@pancakeswap/tokens": "*",
-    "@pancakeswap/sdk": "*"
+    "@tiwatoyin/dyleum-sdk": "*"
   }
 }

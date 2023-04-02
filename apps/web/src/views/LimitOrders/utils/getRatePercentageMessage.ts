@@ -1,4 +1,4 @@
-import { Percent } from '@pancakeswap/sdk'
+import { Percent } from '@tiwatoyin/dyleum-sdk'
 import { TranslateFunction } from '@pancakeswap/localization'
 
 export enum PercentageDirection {

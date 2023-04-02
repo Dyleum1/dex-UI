@@ -1,5 +1,5 @@
 import { useCallback, useMemo } from 'react'
-import { ChainId, Token } from '@pancakeswap/sdk'
+import { ChainId, Token } from '@tiwatoyin/dyleum-sdk'
 import { BigNumber } from 'bignumber.js'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTranslation } from '@pancakeswap/localization'

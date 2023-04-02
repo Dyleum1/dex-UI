@@ -1,5 +1,5 @@
 /* eslint-disable no-restricted-syntax */
-import { Currency, Token } from '@pancakeswap/sdk'
+import { Currency, Token } from '@tiwatoyin/dyleum-sdk'
 import { Box, Input, Text, useMatchBreakpoints } from '@pancakeswap/uikit'
 import { KeyboardEvent, RefObject, useCallback, useMemo, useRef, useState, useEffect } from 'react'
 import { useTranslation } from '@pancakeswap/localization'

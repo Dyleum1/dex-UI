@@ -9,7 +9,7 @@ import {
   Text,
   CopyAddress,
 } from '@pancakeswap/uikit'
-import { ChainId, WNATIVE } from '@pancakeswap/sdk'
+import { ChainId, WNATIVE } from '@tiwatoyin/dyleum-sdk'
 import { FetchStatus } from 'config/constants/types'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTranslation } from '@pancakeswap/localization'

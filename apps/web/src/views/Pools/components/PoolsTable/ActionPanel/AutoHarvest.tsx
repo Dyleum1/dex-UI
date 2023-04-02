@@ -6,7 +6,7 @@ import { useVaultPoolByKey } from 'state/pools/hooks'
 import { VaultKey, DeserializedLockedCakeVault } from 'state/types'
 import { getVaultPosition, VaultPosition } from 'utils/cakePool'
 import { useVaultApy } from 'hooks/useVaultApy'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 import { ActionContainer, ActionTitles, ActionContent, RowActionContainer } from './styles'
 import UnstakingFeeCountdownRow from '../../CakeVaultCard/UnstakingFeeCountdownRow'

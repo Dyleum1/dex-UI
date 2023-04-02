@@ -19,7 +19,7 @@ import { useVaultPoolByKey } from 'state/pools/hooks'
 import { DeserializedLockedVaultUser, VaultKey } from 'state/types'
 import { MAX_LOCK_DURATION } from 'config/constants/pools'
 import { getVaultPosition, VaultPosition, isLocked } from 'utils/cakePool'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { useMemo } from 'react'
 import { getFullDisplayBalance } from '@pancakeswap/utils/formatBalance'
 

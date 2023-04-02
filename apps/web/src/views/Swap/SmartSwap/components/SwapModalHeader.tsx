@@ -1,4 +1,4 @@
-import { TradeType, CurrencyAmount, Currency, Percent } from '@pancakeswap/sdk'
+import { TradeType, CurrencyAmount, Currency, Percent } from '@tiwatoyin/dyleum-sdk'
 import { Button, Text, ErrorIcon, ArrowDownIcon } from '@pancakeswap/uikit'
 import { Field } from 'state/swap/actions'
 import { useTranslation } from '@pancakeswap/localization'

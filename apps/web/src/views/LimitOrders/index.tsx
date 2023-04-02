@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState, useMemo } from 'react'
 import { useRouter } from 'next/router'
-import { CurrencyAmount, Token, Trade, TradeType, Currency, Percent, ChainId } from '@pancakeswap/sdk'
+import { CurrencyAmount, Token, Trade, TradeType, Currency, Percent, ChainId } from '@tiwatoyin/dyleum-sdk'
 import replaceBrowserHistory from '@pancakeswap/utils/replaceBrowserHistory'
 import {
   Button,

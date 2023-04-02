@@ -1,4 +1,4 @@
-import { ChainId, WETH9 } from '@pancakeswap/sdk'
+import { ChainId, WETH9 } from '@tiwatoyin/dyleum-sdk'
 import { USDC, USDT, WBTC_ETH } from '@pancakeswap/tokens'
 
 export const ethereumTokens = {

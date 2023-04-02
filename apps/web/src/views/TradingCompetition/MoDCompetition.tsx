@@ -8,7 +8,7 @@ import useTheme from 'hooks/useTheme'
 import { PageMeta } from 'components/Layout/Page'
 import { TC_MOD_SUBGRAPH, API_PROFILE } from 'config/constants/endpoints'
 import { multicallv2 } from 'utils/multicall'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import tradingCompetitionMoDAbi from 'config/abi/tradingCompetitionMoD.json'
 import {

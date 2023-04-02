@@ -1,7 +1,7 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { Contract } from '@ethersproject/contracts'
 import { useTranslation } from '@pancakeswap/localization'
-import { Currency, SwapParameters, TradeType } from '@pancakeswap/sdk'
+import { Currency, SwapParameters, TradeType } from '@tiwatoyin/dyleum-sdk'
 import { Trade as SmartTrade, TradeWithStableSwap } from '@pancakeswap/smart-router/evm'
 import isZero from '@pancakeswap/utils/isZero'
 import truncateHash from '@pancakeswap/utils/truncateHash'

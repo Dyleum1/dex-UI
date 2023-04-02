@@ -1,5 +1,5 @@
 import { useState, useMemo, useContext } from 'react'
-import { Currency, CurrencyAmount, JSBI, Pair, Percent } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, JSBI, Pair, Percent } from '@tiwatoyin/dyleum-sdk'
 import {
   Button,
   Text,

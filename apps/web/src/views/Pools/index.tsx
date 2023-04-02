@@ -6,7 +6,7 @@ import { useTranslation } from '@pancakeswap/localization'
 import { usePoolsPageFetch, usePoolsWithVault } from 'state/pools/hooks'
 import Page from 'components/Layout/Page'
 import ConnectWalletButton from 'components/ConnectWalletButton'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { TokenPairImage } from 'components/TokenImage'
 
 import CardActions from './components/PoolCard/CardActions'

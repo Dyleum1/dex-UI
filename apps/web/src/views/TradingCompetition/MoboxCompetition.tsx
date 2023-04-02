@@ -18,7 +18,7 @@ import {
 } from 'config/constants/trading-competition/phases'
 import PageSection from 'components/PageSection'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import { MIDBLUEBG, MIDBLUEBG_DARK, TRADINGCOMPETITIONBANNER } from './pageSectionStyles'
 import { RulesIcon } from './svgs'
 import Countdown from './components/Countdown'

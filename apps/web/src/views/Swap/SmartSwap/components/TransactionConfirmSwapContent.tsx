@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, TradeType } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, TradeType } from '@tiwatoyin/dyleum-sdk'
 import { TradeWithStableSwap } from '@pancakeswap/smart-router/evm'
 import { ConfirmationModalContent } from 'components/TransactionConfirmationModal'
 import { ITrade } from 'config/constants/types'

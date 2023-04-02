@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Percent, Token } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, Percent, Token } from '@tiwatoyin/dyleum-sdk'
 
 import { useTranslation } from '@pancakeswap/localization'
 import { Field } from 'state/burn/actions'

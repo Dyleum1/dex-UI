@@ -1,7 +1,7 @@
 import { Pool } from '@pancakeswap/uikit'
 import { memo } from 'react'
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { AprInfo, TotalStaked } from './Stat'
 
 interface ExpandedFooterProps {

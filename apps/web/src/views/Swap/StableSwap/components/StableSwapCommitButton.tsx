@@ -1,6 +1,6 @@
 import { useTranslation } from '@pancakeswap/localization'
 import { Text, useModal } from '@pancakeswap/uikit'
-import { Currency, CurrencyAmount, Trade, TradeType } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, Trade, TradeType } from '@tiwatoyin/dyleum-sdk'
 
 import { GreyCard } from 'components/Card'
 import { CommitButton } from 'components/CommitButton'

@@ -6,7 +6,7 @@ import Container from 'components/Layout/Container'
 import { PageMeta } from 'components/Layout/Page'
 import { useTranslation } from '@pancakeswap/localization'
 import { useActiveChainId } from 'hooks/useActiveChainId'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import Hero from './components/Hero'
 import {
   swapSectionData,

@@ -12,7 +12,7 @@ import {
   NextLinkFromReactRouter,
 } from '@pancakeswap/uikit'
 import { Activity, NftToken } from 'state/nftMarket/types'
-import { Price, Currency } from '@pancakeswap/sdk'
+import { Price, Currency } from '@tiwatoyin/dyleum-sdk'
 import { getBlockExploreLink, isAddress } from 'utils'
 import ProfileCell from 'views/Nft/market/components/ProfileCell'
 import { useActiveChainId } from 'hooks/useActiveChainId'

@@ -1,6 +1,6 @@
 import { useTranslation } from '@pancakeswap/localization'
 import { Swap } from '@pancakeswap/uikit'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import { PageMeta } from 'components/Layout/Page'
 import { useActiveChainId } from 'hooks/useActiveChainId'
 import { EXCHANGE_HELP_URLS } from 'config/constants'

@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import { useTranslation } from '@pancakeswap/localization'
 import BigNumber from 'bignumber.js'
 import { getBalanceNumber } from '@pancakeswap/utils/formatBalance'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 const Containter = styled(Flex)`
   margin-top: 12px;

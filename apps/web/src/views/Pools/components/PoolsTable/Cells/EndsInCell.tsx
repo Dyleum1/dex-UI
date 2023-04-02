@@ -4,7 +4,7 @@ import { getBlockExploreLink } from 'utils'
 import { useCurrentBlock } from 'state/block/hooks'
 import { useTranslation } from '@pancakeswap/localization'
 import { getPoolBlockInfo } from 'views/Pools/helpers'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 interface FinishCellProps {
   pool: Pool.DeserializedPool<Token>

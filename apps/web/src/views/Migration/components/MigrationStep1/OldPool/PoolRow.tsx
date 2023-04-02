@@ -5,7 +5,7 @@ import { useVaultPoolByKeyV1 } from 'views/Migration/hook/V1/Pool/useFetchIfoPoo
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
 import { getCakeVaultEarnings } from 'views/Pools/helpers'
 import { useMatchBreakpoints, Pool } from '@pancakeswap/uikit'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { useDelayedUnmount } from '@pancakeswap/hooks'
 import NameCell from './Cells/NameCell'
 import StakedCell from './Cells/StakedCell'

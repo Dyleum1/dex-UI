@@ -1,6 +1,6 @@
 import { useDeferredValue } from 'react'
 import useSWR from 'swr'
-import { CurrencyAmount, TradeType, Currency, Pair } from '@pancakeswap/sdk'
+import { CurrencyAmount, TradeType, Currency, Pair } from '@tiwatoyin/dyleum-sdk'
 import { getBestTradeExactIn, getBestTradeExactOut, createStableSwapPair } from '@pancakeswap/smart-router/evm'
 import { deserializeToken } from '@pancakeswap/token-lists'
 import { getAddress } from '@ethersproject/address'

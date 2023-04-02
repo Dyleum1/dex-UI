@@ -1,5 +1,5 @@
 import { useAccount } from 'wagmi'
-import { Currency, CurrencyAmount } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount } from '@tiwatoyin/dyleum-sdk'
 import { useTranslation } from '@pancakeswap/localization'
 import { isAddress } from 'utils'
 

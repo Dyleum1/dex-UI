@@ -1,4 +1,4 @@
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { coreTokens } from '@pancakeswap/tokens'
 import { bscWarningTokens } from 'config/constants/warningTokens'
 

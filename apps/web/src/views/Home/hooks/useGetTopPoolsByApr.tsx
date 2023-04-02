@@ -8,7 +8,7 @@ import { usePoolsWithVault } from 'state/pools/hooks'
 import { useInitialBlock } from 'state/block/hooks'
 import { FetchStatus } from 'config/constants/types'
 import { Pool } from '@pancakeswap/uikit'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { useActiveChainId } from 'hooks/useActiveChainId'
 
 const useGetTopPoolsByApr = (isIntersecting: boolean) => {

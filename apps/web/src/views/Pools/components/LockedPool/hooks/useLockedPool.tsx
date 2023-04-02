@@ -9,7 +9,7 @@ import { getDecimalAmount } from '@pancakeswap/utils/formatBalance'
 import { useToast } from '@pancakeswap/uikit'
 import useCatchTxError from 'hooks/useCatchTxError'
 import { fetchCakeVaultUserData } from 'state/pools'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import { ONE_WEEK_DEFAULT, vaultPoolConfig } from 'config/constants/pools'
 import { VaultKey } from 'state/types'
 

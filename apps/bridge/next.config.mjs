@@ -6,7 +6,7 @@ const withVanillaExtract = createVanillaExtractPlugin()
 const withTH = transpileModules([
   '@pancakeswap/uikit',
   '@pancakeswap/wagmi',
-  '@pancakeswap/sdk',
+  '@tiwatoyin/dyleum-sdk',
   '@pancakeswap/ui',
   '@pancakeswap/hooks',
   '@pancakeswap/localization',

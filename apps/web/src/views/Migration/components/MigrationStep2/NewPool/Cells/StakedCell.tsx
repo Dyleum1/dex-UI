@@ -6,7 +6,7 @@ import { useVaultPoolByKey } from 'state/pools/hooks'
 import styled from 'styled-components'
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
 import { getBalanceNumber } from '@pancakeswap/utils/formatBalance'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 interface StakedCellProps {
   pool: Pool.DeserializedPool<Token>

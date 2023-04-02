@@ -3,7 +3,7 @@ import BigNumber from 'bignumber.js'
 import styled from 'styled-components'
 import { useTranslation } from '@pancakeswap/localization'
 import { Flex, CardFooter, ExpandableLabel, HelpIcon, Pool } from '@pancakeswap/uikit'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import PoolStatsInfo from '../../PoolStatsInfo'
 import PoolTypeTag from '../../PoolTypeTag'
 

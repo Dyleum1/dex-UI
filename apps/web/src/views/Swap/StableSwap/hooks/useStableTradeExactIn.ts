@@ -1,4 +1,4 @@
-import { CurrencyAmount, Price, Percent, TradeType, Fraction, ONE, Currency } from '@pancakeswap/sdk'
+import { CurrencyAmount, Price, Percent, TradeType, Fraction, ONE, Currency } from '@tiwatoyin/dyleum-sdk'
 import { laggyMiddleware } from 'hooks/useSWRContract'
 import { useCallback, useMemo, useContext, useDeferredValue } from 'react'
 import useSWR from 'swr'

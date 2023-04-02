@@ -148,7 +148,7 @@ import type {
   CrossFarmingReceiver,
   CrossFarmingProxy,
 } from 'config/abi/types'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 
 export const getContract = ({
   abi,

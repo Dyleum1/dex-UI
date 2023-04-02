@@ -1,4 +1,4 @@
-import type { CurrencyAmount, Currency } from '@pancakeswap/sdk'
+import type { CurrencyAmount, Currency } from '@tiwatoyin/dyleum-sdk'
 
 export interface BasePair {
   token0: Currency

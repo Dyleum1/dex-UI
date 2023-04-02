@@ -1,6 +1,6 @@
 import farms56 from '@pancakeswap/farms/constants/56'
 import farms1 from '@pancakeswap/farms/constants/1'
-import { Native } from '@pancakeswap/sdk'
+import { Native } from '@tiwatoyin/dyleum-sdk'
 import { SerializedFarm } from '@pancakeswap/farms'
 import { getLpContract } from 'utils/contractHelpers'
 

@@ -1,4 +1,4 @@
-import { Currency, Trade, TradeType } from '@pancakeswap/sdk'
+import { Currency, Trade, TradeType } from '@tiwatoyin/dyleum-sdk'
 import { RouteType, TradeWithStableSwap } from '@pancakeswap/smart-router/evm'
 
 interface Options {

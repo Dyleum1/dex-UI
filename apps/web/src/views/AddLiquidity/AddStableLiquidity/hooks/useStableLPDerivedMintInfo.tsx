@@ -1,5 +1,5 @@
 import { useTranslation } from '@pancakeswap/localization'
-import { Currency, CurrencyAmount, Fraction, JSBI, Percent, Price, Token } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, Fraction, JSBI, Percent, Price, Token } from '@tiwatoyin/dyleum-sdk'
 import { BIG_INT_ZERO } from 'config/constants/exchange'
 
 import { PairState } from 'hooks/usePairs'

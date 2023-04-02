@@ -1,4 +1,4 @@
-import { Price, Currency } from '@pancakeswap/sdk'
+import { Price, Currency } from '@tiwatoyin/dyleum-sdk'
 import { Flex, Text } from '@pancakeswap/uikit'
 import { multiplyPriceByAmount } from 'utils/prices'
 import { useTranslation } from '@pancakeswap/localization'

@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Percent, Token, WNATIVE } from '@pancakeswap/sdk'
+import { ChainId, JSBI, Percent, Token, WNATIVE } from '@tiwatoyin/dyleum-sdk'
 import { BigNumber } from '@ethersproject/bignumber'
 import { bscTokens, bscTestnetTokens, USDC, USDT, BUSD, WBTC_ETH } from '@pancakeswap/tokens'
 import { ChainMap, ChainTokenList } from './types'
@@ -10,7 +10,7 @@ export const ROUTER_ADDRESS: ChainMap<string> = {
   [ChainId.BSC]: '0x10ED43C718714eb63d5aA57B78B54704E256024E',
   [ChainId.BSC_TESTNET]: '0xD99D1c33F9fC3444f8101754aBC46c52416550D1',
   [ChainId.BRISE]: '0x9507fF69c722bD69FCf42794c92c1C2D0A0f118d',
-  [ChainId.CORE]: '0x8c419A9df7Fe51fB6bFc7faC4292EbEcE1Dcc673',
+  [ChainId.CORE]: '0x839EF7149cA6eB7e560E77170c009E5c3d69Ac08',
 }
 
 // used to construct intermediary pairs for trading

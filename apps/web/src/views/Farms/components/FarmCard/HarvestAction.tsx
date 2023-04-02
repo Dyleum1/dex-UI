@@ -9,7 +9,7 @@ import { TransactionResponse } from '@ethersproject/providers'
 import { usePriceCakeBusd } from 'state/farms/hooks'
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
 import { getBalanceAmount } from '@pancakeswap/utils/formatBalance'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 import MultiChainHarvestModal from 'views/Farms/components/MultiChainHarvestModal'
 
 interface FarmCardActionsProps {

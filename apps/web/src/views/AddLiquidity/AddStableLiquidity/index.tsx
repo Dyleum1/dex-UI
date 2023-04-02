@@ -1,5 +1,5 @@
 import { useCallback, useContext, useMemo, useState } from 'react'
-import { CurrencyAmount, Token, WNATIVE } from '@pancakeswap/sdk'
+import { CurrencyAmount, Token, WNATIVE } from '@tiwatoyin/dyleum-sdk'
 import { Button, Text, AddIcon, CardBody, Message, useModal } from '@pancakeswap/uikit'
 import { logError } from 'utils/sentry'
 import { useTranslation } from '@pancakeswap/localization'

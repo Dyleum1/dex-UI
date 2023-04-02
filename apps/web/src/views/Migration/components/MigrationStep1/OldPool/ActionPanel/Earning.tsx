@@ -6,7 +6,7 @@ import { getBalanceNumber } from '@pancakeswap/utils/formatBalance'
 import { useTranslation } from '@pancakeswap/localization'
 import { BIG_ZERO } from '@pancakeswap/utils/bigNumber'
 import { ActionContainer, ActionTitles, ActionContent } from 'views/Pools/components/PoolsTable/ActionPanel/styles'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 const Container = styled(ActionContainer)`
   flex: 2;

@@ -1,4 +1,4 @@
-# @pancakeswap/sdk
+# @tiwatoyin/dyleum-sdk
 
 ## 3.1.1
 

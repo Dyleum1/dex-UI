@@ -10,7 +10,7 @@ import useSWRImmutable from 'swr/immutable'
 import { getFarmConfig } from '@pancakeswap/farms/constants'
 import { livePools } from 'config/constants/pools'
 import { Pool } from '@pancakeswap/uikit'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 import { useActiveChainId } from 'hooks/useActiveChainId'
 import {

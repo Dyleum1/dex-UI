@@ -1,4 +1,4 @@
-import { Token, CurrencyAmount } from '@pancakeswap/sdk'
+import { Token, CurrencyAmount } from '@tiwatoyin/dyleum-sdk'
 import { useMemo } from 'react'
 
 import { useTokenContract } from './useContract'

@@ -4,7 +4,7 @@ import { DeserializedLockedVaultUser, VaultKey, DeserializedVaultUser } from 'st
 import { useVaultApy } from 'hooks/useVaultApy'
 import { VaultPosition } from 'utils/cakePool'
 import { MAX_LOCK_DURATION } from 'config/constants/pools'
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@tiwatoyin/dyleum-sdk'
 
 import { VaultRoiCalculatorModal } from '../../Vault/VaultRoiCalculatorModal'
 

@@ -1,4 +1,4 @@
-import { ChainId, Currency, Token } from '@pancakeswap/sdk'
+import { ChainId, Currency, Token } from '@tiwatoyin/dyleum-sdk'
 import { Text, QuestionHelper } from '@pancakeswap/uikit'
 import styled from 'styled-components'
 import useNativeCurrency from 'hooks/useNativeCurrency'

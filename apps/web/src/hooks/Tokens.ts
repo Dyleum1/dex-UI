@@ -1,7 +1,7 @@
 /* eslint-disable no-param-reassign */
 import { arrayify } from '@ethersproject/bytes'
 import { parseBytes32String } from '@ethersproject/strings'
-import { Currency, ERC20Token, ChainId } from '@pancakeswap/sdk'
+import { Currency, ERC20Token, ChainId } from '@tiwatoyin/dyleum-sdk'
 import { TokenAddressMap } from '@pancakeswap/token-lists'
 import { GELATO_NATIVE } from 'config/constants'
 import { useAtomValue } from 'jotai'

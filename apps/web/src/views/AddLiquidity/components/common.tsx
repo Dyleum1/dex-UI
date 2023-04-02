@@ -1,5 +1,5 @@
 import React from 'react'
-import { Currency, Fraction, Percent, CurrencyAmount, Token } from '@pancakeswap/sdk'
+import { Currency, Fraction, Percent, CurrencyAmount, Token } from '@tiwatoyin/dyleum-sdk'
 import { Text, useTooltip, TooltipText, Box, Flex, Svg, SvgProps } from '@pancakeswap/uikit'
 import { useTranslation } from '@pancakeswap/localization'
 import styled from 'styled-components'

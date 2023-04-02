@@ -12,7 +12,7 @@ import {
   WalletFilledIcon,
   Skeleton,
 } from '@pancakeswap/uikit'
-import { Currency, Price } from '@pancakeswap/sdk'
+import { Currency, Price } from '@tiwatoyin/dyleum-sdk'
 import { useTranslation } from '@pancakeswap/localization'
 import { multiplyPriceByAmount } from 'utils/prices'
 import styled from 'styled-components'

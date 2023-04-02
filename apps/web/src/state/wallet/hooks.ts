@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, JSBI, Native, Token } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, JSBI, Native, Token } from '@tiwatoyin/dyleum-sdk'
 import { useMemo } from 'react'
 import { useWeb3React } from '@pancakeswap/wagmi'
 import ERC20_INTERFACE from 'config/abi/erc20'

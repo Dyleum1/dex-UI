@@ -16,7 +16,7 @@ import {
 } from 'config/constants/trading-competition/phases'
 import PageSection from 'components/PageSection'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
-import { ChainId } from '@pancakeswap/sdk'
+import { ChainId } from '@tiwatoyin/dyleum-sdk'
 import { DARKBG, MIDBLUEBG, MIDBLUEBG_DARK } from './pageSectionStyles'
 import EasterStormBunny from './pngs/easter-storm.png'
 import Countdown from './components/Countdown'
